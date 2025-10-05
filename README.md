@@ -1,1 +1,1 @@
-# Suduko-Puzzle-Quantum-Solver
+# Sudoku-Puzzle-Quantum-Solver
