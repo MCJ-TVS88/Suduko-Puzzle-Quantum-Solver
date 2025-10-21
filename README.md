@@ -47,9 +47,9 @@ Grover’s search algorithm may be employed to identify these solutions through 
 
 1. **Initialization:** Prepare a register of four qubits in the uniform superposition state  
 
-   $
+   $$
    |s\rangle_4 = \mathcal{H}^{\otimes 4} |0\rangle_4,
-   $
+   $$
 
    representing all possible puzzle configurations.
 
